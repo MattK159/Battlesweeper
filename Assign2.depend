@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1565897626 source:d:\work\c\assign2\mine_ship_game.c
+	"mine_ship_game.h"
+	<stdlib.h>
+
+1554309854 d:\work\c\assign2\mine_ship_game.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1565897652 source:d:\work\c\assign2\main.c
+	<time.h>
+	"mine_ship_game.h"
+	<string.h>
+
